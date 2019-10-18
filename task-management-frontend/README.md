@@ -1,3 +1,5 @@
 # Task Management Application Front-end
-
-This application acts as the front-end for the Task Management application developed throughout the *NestJS - Zero to Hero* course, produced by Ariel Weinberger.
+ please follow the command 
+ #npm install
+then run command 
+#npm start
